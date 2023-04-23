@@ -1,7 +1,7 @@
-#Project Ini Dibuat Untuk Submission Dicoding - WEB PEMULA
+# Project Ini Dibuat Untuk Submission Dicoding - WEB PEMULA
 ## Hanya menggunakan HTML + CSS
 
-###Untuk Teman-teman yang ingin memanfaatkannya, dan ingin memberi support ke saya, bisa ke:
+### Untuk Teman-teman yang ingin memanfaatkannya, dan ingin memberi support ke saya, bisa ke:
 
 Saweria: https://saweria.co/nugraha17 
 Buyme Coffe: https://www.buymeacoffee.com/nunutech401
